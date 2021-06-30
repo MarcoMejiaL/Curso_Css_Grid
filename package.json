@@ -1,0 +1,24 @@
+{
+  "name": "GridLayout",
+  "version": "1.0.0",
+  "description": "Curso de Css Grid",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoMejiaL/Curso_Css_Grid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoMejiaL/Curso_Css_Grid/issues"
+  },
+  "homepage": "https://github.com/MarcoMejiaL/Curso_Css_Grid#readme"
+}
