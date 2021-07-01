@@ -1,0 +1,11 @@
+.container {
+    display: inline-grid;
+    grid-template: repeat(3, 60px) / repeat(3, 60px);
+    background: papayawhip;
+  }
+  
+  .item {
+    display: inline-grid;
+    grid-template: repeat(3, 20px) / repeat(3, 20px);
+    background: pink;
+  }
