@@ -1,0 +1,35 @@
+.container {
+    border: 4px dotted turquoise;
+    
+    width: 200px;
+    height: 200px;
+  }
+  .container1 {
+    
+    display: grid;
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc
+  }
+  
+  
+  .items-section {
+    background: tomato;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: auto;
+    width: 100px;
+    height: 100px;
+    
+    
+    
+  }
+  
+  .items-content {
+    background: rebeccapurple;
+    border: 1px solid black;
+    grid-column-start: 2;
+    
+  }
+  
